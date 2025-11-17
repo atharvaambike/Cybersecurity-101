@@ -1,0 +1,11 @@
+{
+  "name": "cybernotes-git",
+  "version": "1.0.0",
+  "scripts": {
+    "export": "node export.js"
+  },
+  "dependencies": {
+    "@notionhq/client": "^3.0.0",
+    "notion-to-md": "^3.0.0"
+  }
+}
